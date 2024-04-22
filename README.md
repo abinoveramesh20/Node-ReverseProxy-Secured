@@ -1,5 +1,5 @@
 # Node-ReverseProxy in Apache-Secured
-# Create a node app 
+ Create a node app 
  1. npm init -y
  2. npm install
  3. Copy the  config file /etc/apache2/sites-available/000-default.conf as /etc/apache2/sites-available/my-node-app.conf
