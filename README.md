@@ -10,4 +10,6 @@
 5. Now hit your domain along with port no. (127.0.0.1:8000)
 6. After that Secure connection refer https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu
 
-![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+![ezcv logo](![Uploading Screenshot from 2024-04-22 17-50-15.png…]())
+
+
