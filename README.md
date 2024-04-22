@@ -10,6 +10,6 @@
 5. Now hit your domain along with port no. (127.0.0.1:8000)
 6. After that Secure connection refer https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu
 
-![ezcv logo](![Uploading Screenshot from 2024-04-22 17-50-15.png…]())
+![image](https://github.com/abinoveramesh20/Node-ReverseProxy-Secured/assets/145929189/9947580a-5b6d-4333-b1ac-b39724e8c5b7)
 
 
