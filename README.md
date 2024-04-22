@@ -9,3 +9,7 @@
         ProxyPassReverse / http://13.233.253.32:8000/
 5. Now hit your domain along with port no. (127.0.0.1:8000)
 6. After that Secure connection refer https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu
+
+
+file:///home/abinoveramesh/Pictures/Screenshots/Screenshot%20from%202024-04-22%2017-48-46.png
+file:///home/abinoveramesh/Pictures/Screenshots/Screenshot%20from%202024-04-22%2017-50-15.png
